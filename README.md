@@ -40,7 +40,7 @@ What is docker? Well actually we will be using Podman the open-source alternativ
 
 ## Local Environment (for the masochists out there)
 
-**Keep in mind that not all environments, operating systems and found packages are the same**, so this might differ from user to user. I will just show you how I did it on my operating system (Ubuntu 24.04.3 LTS). I believe this could also work with WSL (Windows Subsystem for Linux). A "how to" found in the following link [How to install WSL YT](https://www.youtube.com/watch?v=zZf4YH4WiZo) or some documentation [How to install WSL DOC](https://learn.microsoft.com/en-us/windows/wsl/install)
+**Keep in mind that not all environments, operating systems and found packages are the same**, so this might differ from user to user. I will just show you how I did it on my operating system (Ubuntu 24.04.3 LTS). I believe this could also work with WSL (Windows Subsystem for Linux). A "how to" found in the following link [How to install WSL YT](https://www.youtube.com/watch?v=zZf4YH4WiZo) or some documentation [How to install WSL DOC](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 **UNDER CONSTRUCTION**
 
