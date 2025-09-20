@@ -21,6 +21,19 @@ $$
 \quad V(\Phi) = \mu^2 \Phi^\dagger \Phi + \lambda (\Phi^\dagger \Phi)^2
 $$
 
-After spontaneous symmetry breaking, $\Phi$ acquires a vacuum expectation value $v$ and the physical Higgs boson $H(x)$ emerges as its quantum excitation. In short, the Higgs boson is to the Higgs field what the photon is to the electromagnetic field — it also comes with a Nobel Prize. 🏆
+After spontaneous symmetry breaking, $\Phi$ acquires a vacuum expectation value $v$ and the physical Higgs boson $H(x)$ emerges as its quantum excitation. In short, the Higgs boson is to the Higgs field what the photon is to the electromagnetic field, it also comes with a Nobel Prize. 
+
+## Motivation  
+
+During my undergraduate studies under the supervision of Dr. Walid Malaeb, I explored the historical and theoretical background with a bit of computation to detect the Higgs boson, for my Bachelor’s thesis. Curiosity about how colliders produce these particles has stayed with me though sadly, I do not have a 14 TeV proton-proton collider in my backyard.  
+
+Fortunately, **PYTHIA8**, a Monte Carlo event generator, allows me to simulate high-energy collisions and “produce” Higgs bosons on my laptop. This project gives me a hands-on chance to generate events, reconstruct the Higgs via $H \to ZZ \to 2\ell^+ 2\ell^-$, and analyze the resulting data.  
+
+After several hours of talking with some friends on installing Linux operating systems they still haven't been convinced, so I decided to create a **Dockerfile** that creates a virtual environment that contains the exact Distro, libraries, packages that will be needed for this project. So all you could do is pull the image, hop on in, clone the repo, sit back and relax. Jokes! 
+
+You still have a few commands to run which I will be documenting throughout this repository.
+
+
+
 
 
