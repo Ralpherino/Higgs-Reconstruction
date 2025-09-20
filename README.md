@@ -31,7 +31,15 @@ Fortunately, **PYTHIA8**, a Monte Carlo event generator, allows me to simulate h
 
 After several hours of talking with some friends on installing Linux operating systems they still haven't been convinced, so I decided to create a **Dockerfile** that creates a virtual environment that contains the exact Distro, libraries, packages that will be needed for this project. So all you could do is pull the image, hop on in, clone the repo, sit back and relax. Jokes! 
 
-You still have a few commands to run which I will be documenting throughout this repository.
+You still have a few commands to run which I will be documenting throughout this repository. You should have basic knowledge in bash commands right? RIGHT? Ughh fine I will introduce two paths and hold your hand through it:
+
+## Docker Method
+
+What is docker? Well actually we will be using Podman the open-source alternative! Feel free to check out the amazing workshop provided by the HSF community [Introduction to Docker and Podman](https://hsf-training.github.io/hsf-training-docker/)! 
+
+
+
+## Manual (for the masochists out there)
 
 
 
