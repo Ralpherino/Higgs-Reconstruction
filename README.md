@@ -33,13 +33,16 @@ After several hours of talking with some friends on installing Linux operating s
 
 You still have a few commands to run which I will be documenting throughout this repository. You should have basic knowledge in bash commands right? RIGHT? Ughh fine I will introduce two paths and hold your hand through it:
 
-## Docker Method
+## Docker Environment
 
-What is docker? Well actually we will be using Podman the open-source alternative! Feel free to check out the amazing workshop provided by the HSF community [Introduction to Docker and Podman](https://hsf-training.github.io/hsf-training-docker/)! 
+What is docker? Well actually we will be using Podman the open-source alternative! I'm not going to waste that much of my precious time guiding you through docker but if you are intersted please feel free to check out the amazing workshop provided by the HSF community [Introduction to Docker and Podman](https://hsf-training.github.io/hsf-training-docker/)!
 
 
+## Local Environment (for the masochists out there)
 
-## Manual (for the masochists out there)
+**Keep in mind that not all environments, operating systems and found packages are the same**, so this might differ from user to user. I will just show you how I did it on my operating system (Ubuntu 24.04.3 LTS). I believe this could also work with WSL (Windows Subsystem for Linux). A "how to" found in the following link [How to install WSL YT](https://www.youtube.com/watch?v=zZf4YH4WiZo) or some documentation [How to install WSL DOC](https://learn.microsoft.com/en-us/windows/wsl/install)
+
+**UNDER CONSTRUCTION**
 
 
 
